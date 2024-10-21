@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NFC_06</string>
+    <string name="service_name">NFC URL Emulator</string>
+    <string name="aid_description">NFC URL Emulation</string>
+</resources>
